@@ -1,1 +1,1 @@
-print ("saya sedang makan")
+print ("kamu suka apel")
