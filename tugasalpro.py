@@ -1,1 +1,1 @@
-print ("saya sedang makan")
+print ("kami lagi jalan")
