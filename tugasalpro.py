@@ -1,1 +1,1 @@
-print ("kami lagi jalan")
+print ("kami lagi jalan ke samarinda")
